@@ -10,7 +10,7 @@ Precisamos que imprimem os arquivos :
 - homolog1-Câmara descontaminação do ar (tubular) - COVID-19 conector ambu-DN35.stl
 
 
-Entrem em contato com o [Bruno](agrofoglio@gmail.com) ou Douglas[douglas.brsoftware@gmail.com]
+Entrem em contato com o [Bruno](agrofoglio@gmail.com) ou [Douglas](douglas.brsoftware@gmail.com)
 
 
 ![Workflow](/figures/Capturar.png)
