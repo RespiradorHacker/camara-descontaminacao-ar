@@ -2,6 +2,17 @@ Projetos:
 
 1. Idéia original do Celso Ken Mori Monteiro para uma câmara de descontaminação utilizando lâmpada de luz mista (esterilização por luz UV).
 
+#Atividades para executar:
+
+24/03/2020
+Precisamos que imprimem os arquivos :
+- homolog1-Câmara descontaminação do ar (tubular) - COVID-19 conector ambu-DN28.stl
+- homolog1-Câmara descontaminação do ar (tubular) - COVID-19 conector ambu-DN35.stl
+
+
+Entrem em contato com o [Bruno](agrofoglio@gmail.com) ou Douglas[douglas.brsoftware@gmail.com]
+
+
 ![Workflow](/figures/Capturar.png)
 
 Histórico:
