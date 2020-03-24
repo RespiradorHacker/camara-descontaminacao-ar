@@ -2,7 +2,7 @@ Projetos:
 
 1. Idéia original do Celso Ken Mori Monteiro para uma câmara de descontaminação utilizando lâmpada de luz mista (esterilização por luz UV).
 
-![Workflow](Screenshot_20200323_113330.png)
+![Workflow](/figures/Screenshot_20200323_113330.png)
 
 Histórico:
 Em 16/3/2020 o Laboratório Hacker de Campinas (LHC) iniciou um esforço colaborativo e entre hackerspaces para mobilizar um grupo de voluntários visando a prototipagem e montagem de um respirador hacker para auxiliar num possível gargalo das redes de saúde visto a rápida propagação do vírus como ocorreu em alguns países da Europa. Tal movimento culminou na criação de um grupo de trabalho colaborativo com integrantes dentro e fora do Brasil e que estão empenhados em apresentar protótipos de fácil produção, baixo custo e acessíveis ao Brasil nos próximos dias. Você já ouviu falar sobre respiradores open hardware?
@@ -15,13 +15,13 @@ Para quem quiser participar, seguem links do projeto:
 * [Github:](https://github.com/RespiradorHacker/)
 * [Slack:](https://join.slack.com/t/respiradorhacker/shared_invite/zt-cz8b6iv8-nPnewxJh1r5T3ZdAZIX_PQ)
 
-![Workflow](Screenshot_20200323_183253.png)
+![Workflow](/figures/Screenshot_20200323_183253.png)
 
-![Workflow](Screenshot_20200323_183317.png)
+![Workflow](/figures/Screenshot_20200323_183317.png)
 
-![Workflow](Screenshot_20200323_183342.png)
+![Workflow](/figures/Screenshot_20200323_183342.png)
 
-![Workflow](Screenshot_20200323_183413.png)
+![Workflow](/figures/Screenshot_20200323_183413.png)
 
-![Workflow](Screenshot_20200323_183442.png)
+![Workflow](/figures/Screenshot_20200323_183442.png)
 
