@@ -4,7 +4,11 @@ Projetos:
 
 # Atividades para executar:
 
-24/03/2020
+25/03/2020 [ ] 
+ - Realizar teste com o tubo DN 28
+ - Realizar teste com o tubo DN 35
+ 
+24/03/2020   [ok] Impresso teste 01.
 Precisamos que imprimem os arquivos :
 - homolog1-Câmara descontaminação do ar (tubular) - COVID-19 conector ambu-DN28.stl
 - homolog1-Câmara descontaminação do ar (tubular) - COVID-19 conector ambu-DN35.stl
@@ -13,6 +17,10 @@ Recomendações utilizar material ABS
 
 Entrem em contato com o [Bruno](agrofoglio@gmail.com) ou [Douglas](douglas.brsoftware@gmail.com)
 
+# Informações sobre os conectores
+
+Peça DN 28 = 30mm
+Peça DN 35 = 34,9mm
 
 ![Workflow](/figures/Capturar.png)
 
