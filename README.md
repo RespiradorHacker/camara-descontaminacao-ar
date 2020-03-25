@@ -4,7 +4,7 @@ Projetos:
 
 # Atividades para executar:
 
-25/03/2020 [ ] 
+25/03/2020 [ ] Precisamos dos tubos e validar.
  - Realizar teste com o tubo DN 28
  - Realizar teste com o tubo DN 35
  
@@ -19,8 +19,8 @@ Entrem em contato com o [Bruno](agrofoglio@gmail.com) ou [Douglas](douglas.brsof
 
 # Informações sobre os conectores
 
-Peça DN 28 = 30mm
-Peça DN 35 = 34,9mm
+- Peça DN 28 = 30mm
+- Peça DN 35 = 34,9mm
 
 ![Workflow](/figures/Capturar.png)
 
