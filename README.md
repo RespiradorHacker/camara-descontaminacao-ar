@@ -25,7 +25,7 @@ Entrem em contato com o [Bruno](agrofoglio@gmail.com) ou [Douglas](douglas.brsof
 ![Workflow](/figures/Capturar.png)
 
 Histórico:
-Em 16/3/2020 o Laboratório Hacker de Campinas (LHC) iniciou um esforço colaborativo e entre hackerspaces para mobilizar um grupo de voluntários visando a prototipagem e montagem de um respirador hacker para auxiliar num possível gargalo das redes de saúde visto a rápida propagação do vírus como ocorreu em alguns países da Europa. Tal movimento culminou na criação de um grupo de trabalho colaborativo com integrantes dentro e fora do Brasil e que estão empenhados em apresentar protótipos de fácil produção, baixo custo e acessíveis ao Brasil nos próximos dias. Você já ouviu falar sobre respiradores open hardware?
+Em 16 de março de 2020, o um grupo de pessoas online iniciou um esforço colaborativo de voluntários visando a prototipagem e montagem de um respirador hacker para auxiliar em um possível gargalo das redes de saúde visto a rápida propagação do coronavírus como ocorreu em alguns países da Europa. Tal movimento culminou na criação de um grupo de trabalho colaborativo com integrantes dentro e fora do Brasil e que estão empenhados em apresentar protótipos de fácil produção, baixo custo e acessíveis ao Brasil nos próximos dias. Você já ouviu falar sobre respiradores open hardware?
 Nós criamos um grupo para discutir sobre o assunto e ver alguma forma de colaborar. Precisamos não só de pessoas de tecnologia, mas principalmente profissionais de saúde com conhecimento de uso do equipamento.
 Para quem quiser participar, seguem links do projeto:
 
